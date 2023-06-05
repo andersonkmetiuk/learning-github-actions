@@ -1,1 +1,1 @@
-# learning-github-actions-LinkedinLearning
+# Learning GitHub Actions - LinkedinLearning
