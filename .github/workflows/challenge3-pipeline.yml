@@ -1,4 +1,4 @@
-name: Python Pipeline
+name: Challenge 3 Pipeline
 on: push
 
 jobs:
