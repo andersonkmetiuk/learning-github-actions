@@ -1,6 +1,6 @@
 name: Challenge 2 Artifact
 
-on: [push]
+on: [push, workflow_dispatch]
 
 env:
   ARTIFACT_NAME: myartifact

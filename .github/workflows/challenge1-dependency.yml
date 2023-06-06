@@ -1,6 +1,6 @@
 name: Challenge 1 Dependency
 
-on: push
+on: [push, workflow_dispatch]
 
 jobs:
   job1:
