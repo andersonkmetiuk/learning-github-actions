@@ -1,5 +1,5 @@
 #Workflows from Marketplace
-name: Python application
+name: Python Marketplace
 on: [push]
 
 jobs:
